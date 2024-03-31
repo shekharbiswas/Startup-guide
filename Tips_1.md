@@ -1,4 +1,4 @@
-# Basics
+# Idea & Product
 
 - The idea / mission is 'dharma' ( not subject to external factors )
 - If the start-up sounds a good idea ( many peope already into it ),
