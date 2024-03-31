@@ -12,4 +12,8 @@
 - Most investors think about today not 10 years from now.
 - You cant create a market or its not easy.
 - What is obvious to you but not so to others.
-- 
+
+**Think about market first**
+
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/69c71822-b1d4-42a9-878b-dce0fa7e8c4e" width="400">
+
