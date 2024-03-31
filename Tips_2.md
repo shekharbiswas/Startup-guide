@@ -6,3 +6,6 @@
 - hiring as less as possible, initially.
 - When you have to , consider - 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/a66fce15-60bc-404a-9248-94ef494058fc" width="400">
+
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/bffac82a-7444-4197-95da-25c25227c490" width="400">
+
