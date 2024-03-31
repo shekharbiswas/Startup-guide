@@ -28,3 +28,4 @@ The amt of love is same but the dist is different.
 
 - Early organic growth is imp sign.
 - startups unlikely to die from competition but from not focusing on users.
+- A small grp of people for feedback is better.
