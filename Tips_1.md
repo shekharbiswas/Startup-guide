@@ -33,4 +33,9 @@ The amt of love is same but the dist is different.
 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/a7488575-88a0-4e18-bbda-d749b05162a8" width="350">
 
+- Some metrics
+
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/2d176927-23b9-4978-826c-38f6bf233043" width="350">
+
+
 
