@@ -9,5 +9,4 @@
 
 
 - If today, a small amt of users will use my product - but in the future i will have more of them.
-- Most investors think about today
-- Market evolve fast and think about 10 years from now.
+- Most investors think about today not 10 years from now.
