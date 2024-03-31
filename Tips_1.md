@@ -15,6 +15,11 @@
 
 **Think about market first**
 
-<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/69c71822-b1d4-42a9-878b-dce0fa7e8c4e" width="400">
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/69c71822-b1d4-42a9-878b-dce0fa7e8c4e" width="300">
 
 **Product is king - everything else is just BS**
+
+- A small number of users should love ( orange ) than a large number like the product ( grey ).
+
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/9a639640-0811-433d-908c-330a4f2f19d7" width="300">
+
