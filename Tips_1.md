@@ -5,7 +5,7 @@
 - Most bad ideas were actually successful.
 
 
-<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/df9f0905-1d89-42f0-9725-cd0b752c8d66" width="400">
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/df9f0905-1d89-42f0-9725-cd0b752c8d66" width="300">
 
 
 - If today, a small amt of users will use my product - but in the future i will have more of them.
@@ -21,5 +21,5 @@
 
 - A small number of users should love ( orange ) than a large number like the product ( grey ).
 
-<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/9a639640-0811-433d-908c-330a4f2f19d7" width="300">
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/9a639640-0811-433d-908c-330a4f2f19d7" width="350">
 
