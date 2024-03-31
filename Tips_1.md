@@ -30,7 +30,7 @@ The amt of love is same but the dist is different.
 - Early organic growth is imp sign of success.
 - startups unlikely to die from competition but from not focusing on users.
 - A small grp of people for feedback is better.
-- Early days should plan
+- Early days planning ( too much also can be counter-productive )
 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/a7488575-88a0-4e18-bbda-d749b05162a8" width="350">
 
