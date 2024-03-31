@@ -12,7 +12,9 @@
 - Most investors think about today not 10 years from now.
 - You cant create a market that doesn't exist. ( exception is rare )
 - What is obvious to you but not so to others.
-
+  
+( you can not always make your idea great - its a fancy dream to find value in every idea )
+  
 **Think about market first**
 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/69c71822-b1d4-42a9-878b-dce0fa7e8c4e" width="300">
@@ -26,7 +28,7 @@
 The amt of love is same but the dist is different.
 ( super imp for a product )
 
-- Early organic growth is imp sign.
+- Early organic growth is imp sign of success.
 - startups unlikely to die from competition but from not focusing on users.
 - A small grp of people for feedback is better.
 - Early days should plan
