@@ -1,3 +1,3 @@
 # Team 
 
-- I wanna do a Startup. you wanna do? lets do - **Worst decision** coming.
+- I wanna do a Startup. you wanna do? lets do - **Worst way** to choose partners.
