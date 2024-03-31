@@ -32,7 +32,7 @@ The amt of love is same but the dist is different.
 - A small grp of people for feedback is better.
 - Early days planning ( too much also can be counter-productive )
 
-<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/a7488575-88a0-4e18-bbda-d749b05162a8" width="350">
+<img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/a7488575-88a0-4e18-bbda-d749b05162a8" width="450">
 
 - Some metrics
 
