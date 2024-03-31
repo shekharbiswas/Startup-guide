@@ -11,4 +11,5 @@
 - If today, a small amt of users will use my product - but in the future i will have more of them.
 - Most investors think about today not 10 years from now.
 - You cant create a market or its not easy.
+- What is obvious to you but not so to others.
 - 
