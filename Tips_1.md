@@ -17,3 +17,4 @@
 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/69c71822-b1d4-42a9-878b-dce0fa7e8c4e" width="400">
 
+**Product is king - everything else is just BS**
