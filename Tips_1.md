@@ -23,3 +23,6 @@
 
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/9a639640-0811-433d-908c-330a4f2f19d7" width="350">
 
+The amt of love is same but the dist is different.
+( super imp for a product )
+
