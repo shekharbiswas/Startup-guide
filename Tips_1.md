@@ -8,7 +8,7 @@
 <img src="https://github.com/shekharbiswas/Startup-guide/assets/32758439/df9f0905-1d89-42f0-9725-cd0b752c8d66" width="300">
 
 
-- If today, a small amt of users will use my product - but in the future i will have more of them.
+- Better to have a small amt of users now - but in the future to get more of them.
 - Most investors think about today not 10 years from now.
 - You cant create a market that doesn't exist. ( exception is rare )
 - What is obvious to you but not so to others.
