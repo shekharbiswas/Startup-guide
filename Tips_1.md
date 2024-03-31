@@ -27,3 +27,4 @@ The amt of love is same but the dist is different.
 ( super imp for a product )
 
 - Early organic growth is imp sign.
+- startups unlikely to die from competition but from not focusing on users.
